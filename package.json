@@ -1,0 +1,26 @@
+{
+  "name": "ismir2020-shared-structure",
+  "version": "1.0.0",
+  "description": "Companion code for \"A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory\"",
+  "main": "ismir2020.ts",
+  "scripts": {
+    "start": "ts-node ismir2020.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianthalmann/ismir2020-shared-structure.git"
+  },
+  "author": "florianthalmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianthalmann/ismir2020-shared-structure/issues"
+  },
+  "homepage": "https://github.com/florianthalmann/ismir2020-shared-structure#readme",
+  "dependencies": {
+    "musical-structure": "^0.1.2",
+    "siafun": "^0.3.11"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.161"
+  }
+}
