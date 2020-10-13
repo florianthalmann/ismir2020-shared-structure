@@ -1,5 +1,5 @@
 # ismir2020-shared-structure
-Companion code for *A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory*
+Companion code for Florian Thalmann, Kazuyoshi Yoshii, Thomas Wilmering, Geraint Wiggins, Mark Sandler. *A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory*, ISMIR 2020.
 
 Clone repository and run `npm install`. After updating the code so that it points to your local copy of the dataset ([fifteen-songs-dataset](https://github.com/grateful-dead-live/fifteen-songs-dataset)), run `npm start`.
 
